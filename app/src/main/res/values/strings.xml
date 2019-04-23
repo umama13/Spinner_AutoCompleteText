@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Spinner_AutoCompleteText</string>
+    <string-array name="countries">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Bangladesh</item>
+        <item>Belgium</item>
+        <item>Brazil</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Finland</item>
+        <item>France</item>
+    </string-array>
+</resources>
